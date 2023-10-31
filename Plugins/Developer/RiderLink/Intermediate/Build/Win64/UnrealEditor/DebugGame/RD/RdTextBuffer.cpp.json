@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\alsv4\\learning_unreal_als\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\alsv4\\learning_unreal_als\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\debuggame\\rd\\definitions.h",
+            "c:\\alsv4\\learning_unreal_als\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
