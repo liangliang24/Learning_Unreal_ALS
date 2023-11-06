@@ -22,12 +22,6 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-	UPROPERTY(EditDefaultsOnly,BlueprintReadWrite)
-	USpringArmComponent* SpringArm;
-
-	UPROPERTY(EditDefaultsOnly,BlueprintReadWrite)
-	UCameraComponent* Camera;
-
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
